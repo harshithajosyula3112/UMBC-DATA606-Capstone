@@ -70,16 +70,36 @@ Results-oriented Data Analyst with a proven track record in financial modeling, 
 ---
 
 ## Projects
+### Energy Consumption Forecast
+- **Developed comprehensive electricity price prediction system** using multiple machine learning algorithms including Gradient Boosting, Random Forest, XGBoost, CatBoost, and Support Vector Regression
+- **Achieved best performance with Gradient Boosting Regressor** with RMSE of 0.3339 after hyperparameter tuning, representing 11.8% improvement from baseline
+- **Analyzed complex energy datasets** including total load, renewable generation, weather features, and temporal patterns to identify key pricing drivers
+- **Conducted extensive exploratory data analysis** revealing correlations between renewable energy generation, weather conditions, and electricity pricing dynamics
+- **Implemented hyperparameter optimization** using Grid Search and Randomized Search techniques across 135+ iterations to maximize model performance
+- **Deployed interactive web application** using Gradio for real-time energy consumption predictions with user-friendly interface
+- **Demonstrated strong feature engineering skills** by integrating diverse data types including meteorological, temporal, and energy generation variables
+- Link: [Energy Consumption](https://github.com/harshithajosyula3112/Energy-consumption)
+  
 ### Mobile Device Usage and User Behavior
 - **Developed machine learning models** to predict user behavior based on mobile interaction patterns, enhancing user experience and device performance
 - **Identified key behavioral factors** such as time of day, device type, and session length to improve personalization and engagement strategies
 - **Utilized clustering techniques (K-Means, DBSCAN)** to segment users based on app preferences, session durations, and mobile usage trends, providing actionable insights
 - **Analyzed cross-device transitions** (e.g., smartphones to tablets) to improve seamless user experiences and optimize engagement strategies
 - **Created interactive data visualizations** to help mobile developers and marketers optimize app launches, track peak engagement times, and refine marketing strategies
-
+-  Link: [Analysis of User Behavior Data](https://github.com/harshithajosyula3112/Analysis-of-User-Behavior-Data)
+  
 ### Advanced Financial Modeling Projects
 - **Investment Analysis Model**: Created machine learning-based recommendation system analyzing user behavior patterns and purchase history, supporting investment decisions
-- **Portfolio Optimization Analysis**: Built predictive models for user behavior based on interaction patterns, identifying key performance drivers and optimization opportunities for enhanced ROI
+- **Portfolio Optimization Analysis**: Built predictive models for user behavior based on interaction patterns, identifying key performance drivers and optimization opportunities for enhanced ROI   Link: [Portfolio Analysis](https://github.com/harshithajosyula3112/Portfolio-Analysis)
+
+### Recommendation Systems
+- **Developed a machine learning-based recommendation system** to analyze users' past purchases and generate personalized product suggestions, enhancing user engagement and sales
+- **Implemented collaborative and content-based filtering techniques** to recommend products to users with similar purchasing behavior, improving recommendation accuracy by 15%
+
+### Document Level Sentiment Analysis
+- **Developed a Sentiment Analysis model** using **Natural Language Processing (NLP)** and **text analytics** to classify text data into positive and negative sentiments
+- **Applied machine learning techniques** to analyze opinions from text materials, enhancing insights into user sentiment and decision-making processes
+
 
 ---
 
