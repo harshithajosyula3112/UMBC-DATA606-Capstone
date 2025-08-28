@@ -1,7 +1,7 @@
 # Harshitha Josyula
 
-![jpeg-optimizer_Headshot](https://github.com/harshithajosyula3112/UMBC-DATA606-Capstone/blob/main/docs/Headshot.png)
-# Harshitha Josyula
+![jpeg-optimizer_Headshot](https://github.com/harshithajosyula3112/UMBC-DATA606-Capstone/blob/main/docs/Headshot1.JPG)
+# Contact Information
 
 **📞** +1-410-963-4315  
 **📧** [harshithaj6568@gmail.com](mailto:harshithaj6568@gmail.com)  
@@ -31,7 +31,7 @@ Results-oriented Data Analyst with a proven track record in financial modeling, 
 **Financial Process Analysis and Documentation Intern** | *Summer 2025*
 
 - Analyzed 12 months of spending trends, budget variances, and transaction volumes, identifying peak periods and enabling resource reallocation that reduced over-budget instances by 15%
-- Automated weekly PeopleSoft/Oracle Financials budget and purchase order reports, saving stakeholders 5+ hours/week in manual report retrieval
+- Automated weekly PeopleSoft Financials budget and purchase order reports, saving stakeholders 5+ hours/week in manual report retrieval
 - Authored 8 SOP documents for procurement, travel authorization, and cash handling, stored on SharePoint/Confluence for staff-wide access
 - Mapped cross-department workflows in Lucidchart, uncovering process bottlenecks and recommending changes that improved approval turnaround times by 20%
 
@@ -70,15 +70,6 @@ Results-oriented Data Analyst with a proven track record in financial modeling, 
 ---
 
 ## Projects
-
-### Recommendation Systems
-- **Developed a machine learning-based recommendation system** to analyze users' past purchases and generate personalized product suggestions, enhancing user engagement and sales
-- **Implemented collaborative and content-based filtering techniques** to recommend products to users with similar purchasing behavior, improving recommendation accuracy by 15%
-
-### Document Level Sentiment Analysis
-- **Developed a Sentiment Analysis model** using **Natural Language Processing (NLP)** and **text analytics** to classify text data into positive and negative sentiments
-- **Applied machine learning techniques** to analyze opinions from text materials, enhancing insights into user sentiment and decision-making processes
-
 ### Mobile Device Usage and User Behavior
 - **Developed machine learning models** to predict user behavior based on mobile interaction patterns, enhancing user experience and device performance
 - **Identified key behavioral factors** such as time of day, device type, and session length to improve personalization and engagement strategies
