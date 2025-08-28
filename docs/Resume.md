@@ -3,15 +3,15 @@
 ![jpeg-optimizer_Headshot](https://github.com/harshithajosyula3112/UMBC-DATA606-Capstone/blob/main/docs/Headshot1.JPG)
 # Contact Information
 
-**📞** +1-410-963-4315  
-**📧** [harshithaj6568@gmail.com](mailto:harshithaj6568@gmail.com)  
-**🔗** [LinkedIn Profile](https://www.linkedin.com/in/harshitha-josyula-a348b91a8/)
+**Contact number** +1-410-963-4315  
+**Email** [harshithaj6568@gmail.com](mailto:harshithaj6568@gmail.com)  
+**Linkedln** [Linkedln Profile](https://www.linkedin.com/in/harshitha-josyula-a348b91a8/)
 
 ---
 
 ## Professional Summary
 
-Results-oriented Data Analyst with a proven track record in financial modeling, data visualization, and process optimization. Skilled in leveraging tools such as Power BI, Tableau, SQL, and Python to drive data-informed decisions. Two years of professional experience improving profitability, streamlining workflows, and delivering actionable insights. Adept at creating dashboards, automating reports, and presenting findings to senior stakeholders. Seeking a data analyst role to contribute to organizational process improvements and performance optimization.
+Results-oriented Data Analyst with experience in financial modeling, data visualization, and process optimization. Skilled in leveraging tools such as Power BI, Tableau, SQL, and Python to drive data-informed decisions. Two years of professional experience improving profitability, streamlining workflows, and delivering actionable insights. Adept at creating dashboards, automating reports, and presenting findings to senior stakeholders. Seeking a data analyst role to contribute to organizational process improvements and performance optimization.
 
 ---
 
@@ -79,6 +79,15 @@ Results-oriented Data Analyst with a proven track record in financial modeling, 
 - **Deployed interactive web application** using Gradio for real-time energy consumption predictions with user-friendly interface
 - **Demonstrated strong feature engineering skills** by integrating diverse data types including meteorological, temporal, and energy generation variables
 - Link: [Energy Consumption](https://github.com/harshithajosyula3112/Energy-consumption)
+
+### Vehicle Object Tracking and Traffic Analysis
+- **Developed comprehensive traffic safety analysis system** using big data technologies to analyze 75,000 car crash images (8.59GB dataset) from Kaggle Car Crash Dataset (CCD)
+- **Implemented end-to-end big data pipeline** using Apache Spark for feature extraction and crash analysis, MongoDB for efficient data storage, and Power BI for executive-level reporting and visualization
+- **Analyzed 19K+ traffic incidents** revealing critical patterns: day crashes (17.1K) significantly exceed night crashes (2.1K), with weather conditions strongly correlating to accident frequency
+- **Conducted advanced object detection and behavioral analysis** examining ego vehicle involvement, environmental conditions, and temporal patterns to identify high-risk scenarios
+- **Generated actionable business insights** including C-level executive recommendations for ROI improvement through AI-powered traffic monitoring, smart road lighting, and predictive analytics
+- **Delivered strategic recommendations** resulting in proposals for smart infrastructure investments, targeted education programs, and resource optimization for traffic management
+- Link: [Vehicle Object Tracking and Traffic Analysis](https://github.com/harshithajosyula3112/Vehicle-Object-Tracking-and-Traffic-Analysis)
   
 ### Mobile Device Usage and User Behavior
 - **Developed machine learning models** to predict user behavior based on mobile interaction patterns, enhancing user experience and device performance
