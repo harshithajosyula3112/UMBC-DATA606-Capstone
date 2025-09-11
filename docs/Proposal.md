@@ -6,7 +6,7 @@
 
 **Author:** Harshitha Josyula 
 
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/harshithajosyula3112/UMBC-DATA606-Capstone/tree/main
 
 **LinkedIn Profile:** https://www.linkedin.com/in/harshitha-josyula-a348b91a8/ 
 
@@ -40,8 +40,8 @@ Accurate movie recommendations help:
 ### Data Source:
 - **Netflix Movies and TV Shows Dataset** (Open-source, publicly available)
 - **Original Source:** Kaggle/Public datasets aggregating Netflix catalog information
-- **Local Copy (for convenience):** Available in this GitHub repository  
-  https://github.com/[your-username]/UMBC-DATA606-Capstone/tree/main/data/netflix_titles.csv
+- **Local Copy :** Available in this GitHub repository  
+  https://github.com/harshithajosyula3112/UMBC-DATA606-Capstone/blob/151d491835d76d9fc8ce07bcac0dd31d0bc7e796/data/netflix_titles.csv
 
 ### Data Overview:
 - **Dataset size:** ~2.5 MB
