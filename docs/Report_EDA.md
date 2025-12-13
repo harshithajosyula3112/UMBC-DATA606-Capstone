@@ -12,6 +12,8 @@
 
 **PowerPoint Presentation:** [To be added]
 
+**Youtube Presentation:** https://youtu.be/vXRN-VEEKVM
+
 ---
 
 ## Section 1: Background and Problem Statement
