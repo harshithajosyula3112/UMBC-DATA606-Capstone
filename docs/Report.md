@@ -10,7 +10,7 @@
 
 **LinkedIn Profile:** https://www.linkedin.com/in/harshitha-josyula-a348b91a8/  
 
-**PowerPoint Presentation:** [To be added]
+**PowerPoint Presentation:**  [docs/Final Presentation.pptx](https://github.com/harshithajosyula3112/UMBC-DATA606-Capstone/blob/1db916223210d332a190c5329a7f594d31471907/docs/Final%20Presentation.pptx)
 
 **Youtube Presentation:** https://youtu.be/vXRN-VEEKVM
 
